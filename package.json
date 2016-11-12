@@ -1,0 +1,12 @@
+{
+  "name": "gulp-scss-demo",
+  "version": "0.0.0",
+  "description": "Simple demo about how to use gulp when working with SCSS.",
+  "main": "index.js",
+  "author": "Milan Chheda",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-sass": "~2.3.2",
+    "gulp-watch": "~4.3.10"
+  }
+}

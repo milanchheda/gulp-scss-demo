@@ -1,0 +1,14 @@
+$black: #000;
+$backgroudColor: #10AE54;
+.page {
+    &__inner {
+        background: $black;
+    }
+}
+
+.testing {
+    display: flex;
+    width: percentage(5/7);
+    background: $backgroudColor;
+    // Percentage is a Sass function that will be evaluated to CSS when compiled
+}
